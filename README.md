@@ -1,12 +1,31 @@
-# 100-days-of-code# My Web Dev Journey 🚀
+# 100 Days of Code – Web Dev Journey 🚀
 
-I'm building projects daily from small to large. This repo contains my learning logs, goals, and GitHub streak!
+I'm building projects daily from small to large to become a full-stack web developer.
 
-### ✅ Goals:
-- Daily commit 🚀
-- Learn by building 🛠️
-- Become job-ready 💼
+---
 
-### 🔥 Progress:
-- Day 1: GitHub Setup
-- Day 2: Counter App (coming next)
+## 🔥 Progress Log
+
+### ✅ Day 1: GitHub Setup
+- Created this repository
+- Initialized README and log.md
+- Pushed to GitHub successfully
+
+---
+
+### ✅ Day 2: Counter App
+- Built a counter app using **HTML, CSS, JavaScript**
+- Learned DOM manipulation and event handling
+- Practiced styling with CSS and responsive design
+- Committed and pushed project to GitHub
+
+
+---
+
+### Day 3 - To-Do App
+- ✅ Created To-Do app with add/delete task features
+- ✅ Practiced event handling, DOM updates
+- 🧠 Learned clean HTML structure and CSS layout
+- 🛠️ Ready to add localStorage in the future
+
+---
