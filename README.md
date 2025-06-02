@@ -37,3 +37,12 @@ I'm building projects daily from small to large to become a full-stack web devel
 - 🧠 Learned how to evaluate strings and catch JS errors
 
 ---
+
+### Day 5 - To-Do List App
+- ✅ Created a basic to-do list with add/delete functionality
+- ✅ Used LocalStorage to persist tasks
+- ✅ Learned DOM creation and event handling
+- 🧠 Practiced `JSON.stringify` and `JSON.parse`
+
+
+---
