@@ -29,3 +29,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - 🛠️ Ready to add localStorage in the future
 
 ---
+
+### Day 4 - Calculator App
+- ✅ Built a working calculator with +, -, *, /, and clear
+- ✅ Improved JS logic and DOM handling
+- ✅ Practiced styling buttons with CSS Grid
+- 🧠 Learned how to evaluate strings and catch JS errors
+
+---
