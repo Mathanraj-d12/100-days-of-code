@@ -46,3 +46,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 6 - Offline Random Quote Generator
+- ✅ Created a fully functional quote generator using array
+- ✅ Used random selection and DOM updates
+- ✅ Practiced clean UI and JavaScript basics
+
+---
