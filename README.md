@@ -53,3 +53,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Practiced clean UI and JavaScript basics
 
 ---
+
+### Day 7 - Counter App with LocalStorage
+- ✅ Built a number counter with increment, decrement, and reset
+- ✅ Used localStorage to persist value across refresh
+- ✅ Practiced DOM updates and data persistence
+
+
+---
