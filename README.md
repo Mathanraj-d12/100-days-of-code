@@ -59,5 +59,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Used localStorage to persist value across refresh
 - ✅ Practiced DOM updates and data persistence
 
+---
+
+### Day 8 - Digital Clock
+- ✅ Built a real-time digital clock using `Date` and `setInterval`
+- ✅ Practiced time formatting and DOM updates
+- ✅ Learned about padding and 24-hour format
 
 ---

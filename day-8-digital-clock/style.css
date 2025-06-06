@@ -1,0 +1,26 @@
+body {
+  font-family: 'Courier New', monospace;
+  background-color: #0f172a;
+  color: #38bdf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#clock {
+  font-size: 4rem;
+  letter-spacing: 2px;
+  background-color: #1e293b;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
