@@ -67,3 +67,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Learned about padding and 24-hour format
 
 ---
+### Day 9 - BMI Calculator
+- ✅ Built a BMI calculator using form input and JS logic
+- ✅ Categorized BMI as Underweight, Normal, Overweight, or Obese
+- ✅ Learned to handle numbers, validation, and conditional display
+
+
+---
