@@ -74,3 +74,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 10 - Random Joke Generator
+- ✅ Built a fun joke generator using a public API
+- ✅ Practiced async/await and fetch() for real-world data
+- ✅ Improved DOM manipulation and error handling
+
+---
