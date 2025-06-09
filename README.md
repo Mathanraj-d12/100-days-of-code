@@ -81,3 +81,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Improved DOM manipulation and error handling
 
 ---
+
+### Day 11 - QR Code Generator
+- ✅ Built a QR code generator using public API
+- ✅ Practiced working with image-based API results
+- ✅ Strengthened input validation and DOM rendering
+
+---
