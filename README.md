@@ -88,3 +88,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Strengthened input validation and DOM rendering
 
 ---
+
+### Day 12 - Currency Converter
+- ✅ Created a currency converter with real-time exchange rates
+- ✅ Learned how to work with dropdowns and APIs
+- ✅ Practiced input validation and DOM updating
+
+---
