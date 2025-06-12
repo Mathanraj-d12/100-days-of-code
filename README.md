@@ -95,3 +95,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Practiced input validation and DOM updating
 
 ---
+
+### Day 13 - Typing Speed Game
+- ✅ Built a typing speed checker
+- ✅ Learned timing, word calculation, and DOM updating
+- ✅ Real-time text comparison and results
+
+---
