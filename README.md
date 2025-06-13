@@ -102,3 +102,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Real-time text comparison and results
 
 ---
+
+### Day 14 - Color Palette Generator
+- ✅ Generated 5 random colors on click
+- ✅ Click to copy color to clipboard
+- ✅ Practiced DOM manipulation and random hex generation
+
+---
