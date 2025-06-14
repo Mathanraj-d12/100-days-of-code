@@ -109,3 +109,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Practiced DOM manipulation and random hex generation
 
 ---
+
+### Day 15 - Meme Fetcher App
+- ✅ Learned to fetch data from APIs
+- ✅ Displayed meme title, image, and upvotes
+- ✅ Practiced async/await + error handling
+
+
+---
