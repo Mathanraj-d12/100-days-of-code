@@ -117,3 +117,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 16 - Text to Speech App
+- ✅ Used SpeechSynthesis API to convert text into spoken words
+- ✅ Practiced input handling and browser APIs
+- ✅ Learned basics of speech tech in web development
+
+---
