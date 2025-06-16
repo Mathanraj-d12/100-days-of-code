@@ -124,3 +124,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Learned basics of speech tech in web development
 
 ---
+
+### Day 17 - Gradient Generator
+- ✅ Created random linear gradients
+- ✅ Used DOM styling to change background dynamically
+- ✅ Added clipboard copy feature for UI inspiration
+
+---
