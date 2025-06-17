@@ -131,3 +131,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Added clipboard copy feature for UI inspiration
 
 ---
+
+### Day 18 - Guess The Number Game
+- ✅ Practiced event handling, input validation, and game logic
+- ✅ Learned how to generate random numbers
+- ✅ Built a fun and addictive logic-based game
+
+
+---
