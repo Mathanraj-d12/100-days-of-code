@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fefce8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.emoji-row span {
+  font-size: 40px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.emoji-row span:hover {
+  transform: scale(1.2);
+}
+
+#output {
+  margin-top: 30px;
+  color: #7c3aed;
+}

@@ -146,3 +146,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Practiced conditional logic and state tracking
 
 ---
+
+### Day 20 - Emoji Mood Tracker App
+- ✅ Built a fun way to track mood with emojis
+- ✅ Used localStorage to store mood for the day
+- ✅ Practiced real-world interactive UI skills
+
+---

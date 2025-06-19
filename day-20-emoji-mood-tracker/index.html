@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Emoji Mood Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🧠 How are you feeling today?</h1>
+    <div class="emoji-row">
+      <span onclick="saveMood('😄')">😄</span>
+      <span onclick="saveMood('😊')">😊</span>
+      <span onclick="saveMood('😐')">😐</span>
+      <span onclick="saveMood('😔')">😔</span>
+      <span onclick="saveMood('😢')">😢</span>
+    </div>
+    <h2 id="output">No mood saved yet.</h2>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
