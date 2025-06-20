@@ -153,3 +153,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Practiced real-world interactive UI skills
 
 ---
+
+### Day 21 - YouTube Summary Generator
+- ✅ Practiced regex and URL parsing
+- ✅ Used iframe to embed live video previews
+- ✅ Learned how to generate dynamic content based on input
+
+---
