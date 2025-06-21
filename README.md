@@ -160,3 +160,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Learned how to generate dynamic content based on input
 
 ---
+
+### Day 22 - Catch The Dot Game
+- ✅ Created reflex-based click game
+- ✅ Used JavaScript to randomize dot position
+- ✅ Timer and score logic implemented
+- ✅ Super fun mini-game for web!
+
+---
