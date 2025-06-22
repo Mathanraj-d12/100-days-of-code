@@ -168,3 +168,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Super fun mini-game for web!
 
 ---
+
+### Day 23 - Web Mockup Viewer Tool
+- ✅ Built iframe-based mockup loader
+- ✅ Learned aspect-ratio containers and website preview
+- ✅ Useful for showcasing portfolio projects
+
+---
