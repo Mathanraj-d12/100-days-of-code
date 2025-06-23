@@ -1,0 +1,38 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f9ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+  text-align: center;
+  width: 90%;
+  max-width: 400px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 18px;
+  border: 2px solid #38bdf8;
+  margin-bottom: 20px;
+}
+
+#emojiDisplay {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+#tip {
+  font-size: 14px;
+  color: #555;
+}

@@ -175,3 +175,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Useful for showcasing portfolio projects
 
 ---
+
+
+### Day 24 - Emoji Password Strength Tester
+- ✅ Built real-time strength meter with emojis
+- ✅ Learned regex, password logic, DOM updates
+- ✅ Fun UX + practical skill
+
+---
