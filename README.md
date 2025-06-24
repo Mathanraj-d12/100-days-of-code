@@ -183,3 +183,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Fun UX + practical skill
 
 ---
+
+### Day 25 - Weather Emoji App
+- ✅ Learned fetch(), real-time API usage
+- ✅ Displayed temp + emoji forecast
+- ✅ Fun + useful project for daily use and resume
+
+---
