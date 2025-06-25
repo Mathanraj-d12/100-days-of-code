@@ -190,3 +190,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Fun + useful project for daily use and resume
 
 ---
+
+### Day 26 - JavaScript Tip Generator  
+- ✅ Practiced arrays, filtering, and category selection  
+- ✅ Built a dynamic tip generator with fade animation  
+- ✅ Fun, lightweight project to review JS concepts  
+
+---
