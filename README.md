@@ -197,3 +197,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Fun, lightweight project to review JS concepts  
 
 ---
+
+### Day 27 - Tech Term Explainer (AI Typing Effect)
+- ✅ Created an input-based explainer with fake AI typing
+- ✅ Practiced object lookups, intervals, and animations
+- ✅ Made learning tech terms feel interactive and fun
+
+---
