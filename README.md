@@ -204,3 +204,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Made learning tech terms feel interactive and fun
 
 ---
+
+### Day 28 - Bookmark Saver (Mini Link Manager)
+- ✅ Built a personal bookmark manager with localStorage
+- ✅ Practiced link validation, dynamic rendering, delete feature
+- ✅ Real-world useful project, expand-ready
+
+
+---
