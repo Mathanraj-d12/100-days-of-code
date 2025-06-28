@@ -212,3 +212,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 29 - Dev Portfolio Generator
+- ✅ Created a tool to generate HTML-based portfolios
+- ✅ Entered personal info, skills, links, and got live preview + HTML
+- ✅ Fun + useful project to build and share personal profile
+
+---
