@@ -219,3 +219,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Fun + useful project to build and share personal profile
 
 ---
+
+### Day 30 - HTML Tag Visualizer
+- ✅ Built a tool to preview and explain HTML tags
+- ✅ Reinforced HTML learning and DOM rendering
+- ✅ Fun, hands-on way to study frontend foundations
+
+---
