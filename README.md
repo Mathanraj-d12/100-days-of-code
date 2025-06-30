@@ -226,3 +226,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Fun, hands-on way to study frontend foundations
 
 ---
+
+### Day 31 - Font Style Playground
+- ✅ Built a live preview tool for customizing text styles
+- ✅ Practiced CSS properties: font-size, weight, family, spacing
+- ✅ Interactive, fun, and helpful for frontend designers
+
+---

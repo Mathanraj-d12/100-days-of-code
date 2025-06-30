@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>🎨 Font Style Playground</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎨 Font Style Playground</h1>
+
+    <textarea id="textInput" placeholder="Type your text here..."></textarea>
+
+    <div class="controls">
+      <label>Font Size: <input type="range" id="fontSize" min="10" max="100" value="24" /> <span id="fontSizeVal">24px</span></label>
+      
+      <label>Font Weight: 
+        <select id="fontWeight">
+          <option value="normal">Normal</option>
+          <option value="bold">Bold</option>
+          <option value="lighter">Lighter</option>
+          <option value="bolder">Bolder</option>
+        </select>
+      </label>
+
+      <label>Font Family: 
+        <select id="fontFamily">
+          <option value="Arial">Arial</option>
+          <option value="Georgia">Georgia</option>
+          <option value="Courier New">Courier New</option>
+          <option value="Times New Roman">Times New Roman</option>
+        </select>
+      </label>
+
+      <label>Letter Spacing: <input type="range" id="letterSpacing" min="0" max="10" value="0" /> <span id="spacingVal">0px</span></label>
+
+      <label>Text Transform:
+        <select id="textTransform">
+          <option value="none">None</option>
+          <option value="uppercase">UPPERCASE</option>
+          <option value="lowercase">lowercase</option>
+          <option value="capitalize">Capitalize</option>
+        </select>
+      </label>
+    </div>
+
+    <h2>🪞 Live Preview</h2>
+    <div id="previewBox">Your styled text will appear here</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
