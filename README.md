@@ -233,3 +233,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Interactive, fun, and helpful for frontend designers
 
 ---
+
+### Day 32 - Fake Product Review Detector
+- ✅ Created a tool to analyze reviews and detect fake/suspicious content
+- ✅ Used basic text scoring, hype-word detection, and repetition logic
+- ✅ Great intro to text analysis and useful for e-commerce/AI projects
+
+
+---
