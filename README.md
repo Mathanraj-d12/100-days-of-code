@@ -241,3 +241,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 33 - Job Role Matcher
+- ✅ Created a tool to match skills to tech job roles
+- ✅ Learned keyword matching, dynamic scoring, and UI rendering
+- ✅ Useful for career planning, resume advice, and learning paths
+
+---
