@@ -254,4 +254,4 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Practiced fetch(), JSON parsing, DOM manipulation
 - ✅ Useful and up-to-date project for personal dashboards or widgets
 
----
+--- 
