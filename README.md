@@ -248,3 +248,10 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Useful for career planning, resume advice, and learning paths
 
 ---
+
+### Day 34 - Tech News Fetcher
+- ✅ Used `newsdata.io` API to fetch real-time tech news
+- ✅ Practiced fetch(), JSON parsing, DOM manipulation
+- ✅ Useful and up-to-date project for personal dashboards or widgets
+
+---
