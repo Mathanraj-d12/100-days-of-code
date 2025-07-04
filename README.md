@@ -255,3 +255,12 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Useful and up-to-date project for personal dashboards or widgets
 
 --- 
+
+### Day 35 - GitHub Profile Analyzer 🧑‍💻
+
+- ✅ Built an app that fetches GitHub user data using GitHub REST API
+- ✅ Shows name, avatar, bio, public repos, followers, profile link
+- ✅ Practiced API error handling and clean UI card layout
+- ✅ Fun + valuable tool for developers to inspect profiles
+
+---
