@@ -264,3 +264,12 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Fun + valuable tool for developers to inspect profiles
 
 ---
+
+### Day 36 - NASA APOD Viewer 🚀
+
+- ✅ Fetched live Astronomy Picture of the Day from NASA API
+- ✅ Learned media type detection (image/video), API handling
+- ✅ Educational + inspiring use of real-world data
+
+
+---
