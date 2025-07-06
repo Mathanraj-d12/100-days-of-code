@@ -273,3 +273,11 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 37 - Country Explorer 🌍
+
+- ✅ Fetched live country data using REST Countries API
+- ✅ Displayed flag, capital, region, language, currency, population
+- ✅ Real-world data, instantly visible — a perfect portfolio add-on
+
+---
