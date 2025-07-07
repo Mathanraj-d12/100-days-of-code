@@ -281,3 +281,12 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Real-world data, instantly visible — a perfect portfolio add-on
 
 ---
+
+### Day 38 - Random Recipe Generator 🍽️
+
+- ✅ Fetched random recipe using TheMealDB API
+- ✅ Displayed ingredients, instructions, image, and YouTube video
+- ✅ Real-time API use, JSON parsing, and UI updates
+- ✅ Fun + practical project with portfolio potential
+
+---
