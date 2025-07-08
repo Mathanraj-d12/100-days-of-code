@@ -290,3 +290,12 @@ I'm building projects daily from small to large to become a full-stack web devel
 - ✅ Fun + practical project with portfolio potential
 
 ---
+
+### Day 39 - Book Finder App 📚
+
+- ✅ Used Google Books API to search books live
+- ✅ Displayed book title, author, description, and preview link
+- ✅ Fun for readers, students, and useful for daily dev practice
+
+
+---
