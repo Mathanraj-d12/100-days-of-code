@@ -299,3 +299,12 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 40 - Bug Squash Game 🐛🔨
+
+- ✅ Built a reaction-based mini game using JavaScript
+- ✅ Learned timing, DOM interaction, and game logic
+- ✅ Fun and addictive — perfect for portfolio interactivity
+
+
+---
