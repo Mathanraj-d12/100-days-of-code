@@ -308,3 +308,13 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 41 - Daily Word Booster 🧠📚
+
+- ✅ Learned how to fetch real word data using dictionary API
+- ✅ Displayed random word + usage daily
+- ✅ Stored learned words in localStorage to avoid repetition
+- ✅ Smart, meaningful tool for personal growth & portfolio
+
+
+---
