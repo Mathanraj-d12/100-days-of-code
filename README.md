@@ -318,3 +318,13 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 42 - Life Decision Spinner 🎡
+
+- ✅ Built a fun wheel spinner with JavaScript
+- ✅ User inputs choices, spinner randomly selects one
+- ✅ Great practice in DOM, random logic, and animation
+- ✅ Can be extended into games or productivity tools
+
+
+---
