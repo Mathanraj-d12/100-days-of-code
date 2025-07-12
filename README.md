@@ -328,3 +328,13 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 43 - Real-Time Public Chat Room 💬
+
+- ✅ Built a live chat room using Firebase Realtime DB
+- ✅ Messages sync instantly across users
+- ✅ Fun, powerful project using cloud backend
+- ✅ Foundation for future full chat apps
+
+
+---
