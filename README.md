@@ -338,3 +338,13 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+### Day 44 - Emoji Memory Flip Game 🧠🎮
+
+- ✅ Created a card matching memory game with emojis
+- ✅ Random shuffling and pair matching logic
+- ✅ Fun UI and addictive gameplay
+- ✅ Built with pure JavaScript — real game dev practice
+
+
+---
