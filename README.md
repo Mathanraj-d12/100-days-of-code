@@ -348,3 +348,9 @@ I'm building projects daily from small to large to become a full-stack web devel
 
 
 ---
+
+# 🐶 Random Dog Viewer  
+A simple web app that shows a new random dog image every time you click the button.  
+Built using HTML, CSS, JavaScript and Dog CEO API (https://dog.ceo/dog-api/).  
+
+---
