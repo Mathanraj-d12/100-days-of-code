@@ -354,3 +354,9 @@ A simple web app that shows a new random dog image every time you click the butt
 Built using HTML, CSS, JavaScript and Dog CEO API (https://dog.ceo/dog-api/).  
 
 ---
+
+# 🧠 Trivia Quest - Quiz Game  
+A fun trivia game that fetches real questions from the internet using the Open Trivia API.  
+Test your knowledge with multiple-choice quizzes built using HTML, CSS, and JavaScript.  
+
+---
