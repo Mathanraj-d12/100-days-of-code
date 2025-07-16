@@ -360,3 +360,10 @@ A fun trivia game that fetches real questions from the internet using the Open T
 Test your knowledge with multiple-choice quizzes built using HTML, CSS, and JavaScript.  
 
 ---
+
+# 📖 Word Definition Challenge  
+A vocabulary game where you guess the correct meaning of a random word using live data from a dictionary API.  
+Built using HTML, CSS, JavaScript and Dictionary API.  
+
+
+---
