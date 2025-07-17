@@ -367,3 +367,10 @@ Built using HTML, CSS, JavaScript and Dictionary API.
 
 
 ---
+
+### Day 48 - Color Word Reaction Game 🎨🧠  
+- Match the **font color**, not the text — a brain-twister based on the Stroop Effect!  
+- Fun game using DOM, `setInterval`, event handling, and color logic.
+
+
+---
