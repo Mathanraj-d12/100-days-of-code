@@ -374,3 +374,10 @@ Built using HTML, CSS, JavaScript and Dictionary API.
 
 
 ---
+
+### Day 49 - Catch the Falling Emoji Game 🎮🍒  
+- Use arrow keys to catch the right emojis and dodge the wrong ones!  
+- Simple HTML/CSS/JavaScript arcade game with real-time interaction.  
+
+
+---
