@@ -381,3 +381,11 @@ Built using HTML, CSS, JavaScript and Dictionary API.
 
 
 ---
+
+### Day 51 - Random Maze Runner 🌀🚀
+
+- ✅ Auto-generating random maze with dynamic start and goal
+- ✅ Keyboard-controlled player navigation (⬅️⬆️➡️⬇️)
+- ✅ Challenge yourself every time with a new path!
+
+---
