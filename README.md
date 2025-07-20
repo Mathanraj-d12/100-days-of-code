@@ -389,3 +389,10 @@ Built using HTML, CSS, JavaScript and Dictionary API.
 - ✅ Challenge yourself every time with a new path!
 
 ---
+
+### Day 53 - Color Code Breaker 🎯  
+A fast-paced game where you spot the one block that's a slightly different color.  
+Built using HTML, CSS & JavaScript to test visual focus and color perception.
+
+
+---
