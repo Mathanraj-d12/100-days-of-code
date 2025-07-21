@@ -396,3 +396,11 @@ Built using HTML, CSS & JavaScript to test visual focus and color perception.
 
 
 ---
+
+# AI Pattern Guess Game
+
+Guess the next number in a sequence based on hidden math patterns.  
+Improve your logic skills with this simple but challenging game.
+
+
+---
