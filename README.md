@@ -404,3 +404,10 @@ Improve your logic skills with this simple but challenging game.
 
 
 ---
+
+### Day 55 - Emoji Equation Solver 🤯➕😄  
+Solve math logic puzzles where each emoji has a hidden value.  
+Fun brain workout with visuals using HTML, CSS, and JavaScript!
+
+
+---
