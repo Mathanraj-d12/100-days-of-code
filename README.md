@@ -411,3 +411,8 @@ Fun brain workout with visuals using HTML, CSS, and JavaScript!
 
 
 ---
+
+
+### Day 56 - Art Guessing Game 🎨🖼️  
+Guess the correct artist of a painting shown live from The MET Museum API.  
+A fun and educational fetch-based game using HTML, CSS, and JS.

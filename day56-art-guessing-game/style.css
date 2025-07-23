@@ -1,0 +1,58 @@
+body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  padding: 30px;
+  text-align: center;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  max-width: 700px;
+  margin: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+#artImage {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+#options {
+  margin-top: 20px;
+}
+
+#options button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background-color: #3b82f6;
+  color: white;
+}
+
+#options button:hover {
+  background-color: #2563eb;
+}
+
+#feedback {
+  font-size: 1.2rem;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+#nextBtn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  background-color: #10b981;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
