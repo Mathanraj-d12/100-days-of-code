@@ -416,3 +416,8 @@ Fun brain workout with visuals using HTML, CSS, and JavaScript!
 ### Day 56 - Art Guessing Game 🎨🖼️  
 Guess the correct artist of a painting shown live from The MET Museum API.  
 A fun and educational fetch-based game using HTML, CSS, and JS.
+
+
+### Day 57 - AI Trivia Duel 🤖🧠  
+Play a quiz game against a fake AI opponent! Real questions fetched from Open Trivia API.  
+Score-based battle built using HTML, CSS, JavaScript, and fetch().
