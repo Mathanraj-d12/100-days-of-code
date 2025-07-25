@@ -421,3 +421,8 @@ A fun and educational fetch-based game using HTML, CSS, and JS.
 ### Day 57 - AI Trivia Duel 🤖🧠  
 Play a quiz game against a fake AI opponent! Real questions fetched from Open Trivia API.  
 Score-based battle built using HTML, CSS, JavaScript, and fetch().
+
+
+### Day 58 - AI Sketch Classifier 🎨🤖  
+Draw something on canvas, and let the AI guess what it is!  
+Fun interactive game using canvas and simulated AI logic with fetch-style behavior.

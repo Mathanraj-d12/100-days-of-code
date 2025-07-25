@@ -76,3 +76,4 @@ function decodeHTML(html) {
 
 nextBtn.addEventListener("click", loadQuestion);
 window.onload = loadQuestion;
+    
