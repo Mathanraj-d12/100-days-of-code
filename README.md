@@ -426,3 +426,8 @@ Score-based battle built using HTML, CSS, JavaScript, and fetch().
 ### Day 58 - AI Sketch Classifier 🎨🤖  
 Draw something on canvas, and let the AI guess what it is!  
 Fun interactive game using canvas and simulated AI logic with fetch-style behavior.
+
+
+### Day 59 - Lucky Wheel Game 🎡💰  
+Spin the colorful wheel and win random rewards!  
+Built with HTML, CSS, and JS using animation and random logic.
