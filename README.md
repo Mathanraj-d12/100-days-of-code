@@ -431,3 +431,8 @@ Fun interactive game using canvas and simulated AI logic with fetch-style behavi
 ### Day 59 - Lucky Wheel Game 🎡💰  
 Spin the colorful wheel and win random rewards!  
 Built with HTML, CSS, and JS using animation and random logic.
+
+
+### Day 60 - AI Riddle Master 🤖🧩  
+Guess tricky riddles and get hints from the AI when stuck.  
+Tracks score and logic using vanilla JavaScript.
