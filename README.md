@@ -418,14 +418,22 @@ Guess the correct artist of a painting shown live from The MET Museum API.
 A fun and educational fetch-based game using HTML, CSS, and JS.
 
 
+---
+
+
 ### Day 57 - AI Trivia Duel 🤖🧠  
 Play a quiz game against a fake AI opponent! Real questions fetched from Open Trivia API.  
 Score-based battle built using HTML, CSS, JavaScript, and fetch().
 
 
+---
+
+
 ### Day 58 - AI Sketch Classifier 🎨🤖  
 Draw something on canvas, and let the AI guess what it is!  
 Fun interactive game using canvas and simulated AI logic with fetch-style behavior.
+
+---
 
 
 ### Day 59 - Lucky Wheel Game 🎡💰  
@@ -433,6 +441,16 @@ Spin the colorful wheel and win random rewards!
 Built with HTML, CSS, and JS using animation and random logic.
 
 
+---
+
 ### Day 60 - AI Riddle Master 🤖🧩  
 Guess tricky riddles and get hints from the AI when stuck.  
 Tracks score and logic using vanilla JavaScript.
+
+---
+
+### Day 61 - Color Frequency Catcher 🎨👀  
+Memorize flashing colored boxes and guess how many times a target color appeared.  
+A fast-paced visual memory game using JavaScript.
+
+---
