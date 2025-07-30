@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Morse Code Challenge</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📻 Morse Code Challenge</h1>
+    <p>Guess the word from this Morse Code:</p>
+    <div id="morseCodeDisplay" class="code-box">Loading...</div>
+
+    <input type="text" id="userInput" placeholder="Type your answer..." />
+    <button id="submitBtn">Submit</button>
+
+    <p id="resultText"></p>
+    <p id="scoreText">Score: 0</p>
+  </div>
+  <script src="script.js"></script>
+
+  <h3>Morse Code Hint</h3>
+<div class="morse-hint">
+  <pre>
+A: .-     B: -...   C: -.-.   D: -..    E: .     F: ..-.
+G: --.    H: ....   I: ..     J: .---   K: -.-   L: .-..
+M: --     N: -.     O: ---    P: .--.   Q: --.-  R: .-.
+S: ...    T: -      U: ..-    V: ...-   W: .--   X: -..-
+Y: -.--   Z: --..
+  </pre>
+</div>
+
+</body>
+</html>

@@ -454,3 +454,16 @@ Memorize flashing colored boxes and guess how many times a target color appeared
 A fast-paced visual memory game using JavaScript.
 
 ---
+
+### Day 62 - Emoji Reaction Reflex Game ⏱️😄  
+React fast using keyboard keys to match emojis before time runs out!  
+Challenging reflex game with increasing difficulty.
+
+---
+
+### Day 63 - Morse Code Challenge 📻🧠  
+Decode real Morse code into words and test your memory and logic.  
+Pure JavaScript challenge with scoring system and fun interface.
+
+
+---

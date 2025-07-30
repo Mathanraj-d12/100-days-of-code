@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9fafb;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.container {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  width: 400px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #111827;
+}
+
+.code-box {
+  background: #e2e8f0;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  margin: 20px 0;
+  font-family: monospace;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #2563eb;
+}
+
+#resultText {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+#scoreText {
+  margin-top: 10px;
+  color: #16a34a;
+  font-weight: bold;
+}
+
+
+.morse-hint {
+  margin-top: 30px;
+  text-align: left;
+  background: #f1f5f9;
+  padding: 15px;
+  border-radius: 8px;
+  font-family: monospace;
+  font-size: 14px;
+  color: #1e293b;
+  max-height: 200px;
+  overflow: auto;
+}
