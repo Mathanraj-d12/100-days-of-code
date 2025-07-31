@@ -467,3 +467,10 @@ Pure JavaScript challenge with scoring system and fun interface.
 
 
 ---
+
+### Day 64 - ASCII Art Generator 🎨⌨️  
+Turn your text into awesome ASCII banner art.  
+Perfect for fun, creativity, and learning logic in JS!
+
+
+---
