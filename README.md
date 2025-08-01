@@ -474,3 +474,9 @@ Perfect for fun, creativity, and learning logic in JS!
 
 
 ---
+
+### Day 65 - The Word Reactor 🔤⚡  
+Chain words that start with the last letter of the previous word before time runs out!  
+Speed + logic = word explosion fun!
+
+---
