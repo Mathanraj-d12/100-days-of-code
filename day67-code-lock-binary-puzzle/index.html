@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Code Lock: Binary Puzzle</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🔐 Code Lock: Binary Puzzle</h1>
+    <p>Match the binary pattern by toggling the switches!</p>
+
+    <div class="target-box">
+      Target Code: <span id="targetCode"></span>
+    </div>
+
+    <div class="switches" id="switches"></div>
+
+    <p id="result"></p>
+    <div class="instructions">
+  <h3>🧠 How to Play</h3>
+  <ul>
+    <li>You’ll see a target binary code (like <code>10110</code>).</li>
+    <li>Click the boxes below to toggle them between <strong>0</strong> and <strong>1</strong>.</li>
+    <li>Your goal: match the toggle pattern exactly with the target code.</li>
+    <li>Once matched, the lock will say <strong>“Code Unlocked!”</strong></li>
+    <li>Click "New Code" anytime to reset and play again.</li>
+  </ul>
+</div>
+
+    <button id="resetBtn">New Code</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

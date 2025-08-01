@@ -486,3 +486,10 @@ Crack the hidden 3-color sequence using logic, clues, and limited tries.
 Like Mastermind, but modern and visual in the browser!
 
 ---
+
+### Day 67 - Code Lock: Binary Puzzle 🔐💡  
+Toggle the switches to match the secret binary code.  
+A logic-based puzzle game that challenges your brain!
+
+
+---
