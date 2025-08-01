@@ -480,3 +480,9 @@ Chain words that start with the last letter of the previous word before time run
 Speed + logic = word explosion fun!
 
 ---
+
+### Day 66 - Color Code Breaker 🎨🔐  
+Crack the hidden 3-color sequence using logic, clues, and limited tries.  
+Like Mastermind, but modern and visual in the browser!
+
+---

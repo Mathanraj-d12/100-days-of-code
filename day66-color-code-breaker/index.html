@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Color Code Breaker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎨 Color Code Breaker 🔐</h1>
+    <p><strong>How to Play:</strong></p>
+<ul class="instructions">
+  <li>A secret 3-color code is generated randomly.</li>
+  <li>Click on any 3 color buttons to make your guess.</li>
+  <li>Click "Submit Guess" to check your attempt.</li>
+  <li>Feedback will tell you:
+    <ul>
+      <li>🎯 How many colors are in the correct position</li>
+      <li>🎨 How many correct colors are in the wrong position</li>
+    </ul>
+  </li>
+  <li>You have 5 tries to crack the code!</li>
+</ul>
+
+    <p>Pick 3 colors in the correct order and crack the code!</p>
+
+    <div class="color-buttons">
+      <button class="color red" data-color="Red"></button>
+      <button class="color blue" data-color="Blue"></button>
+      <button class="color green" data-color="Green"></button>
+      <button class="color yellow" data-color="Yellow"></button>
+      <button class="color purple" data-color="Purple"></button>
+    </div>
+
+    <div id="guessBox" class="guess-box"></div>
+    <button id="submitBtn">Submit Guess</button>
+
+    <p id="feedback"></p>
+    <p id="attempts">Attempts Left: 5</p>
+    <button id="resetBtn">Restart</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
