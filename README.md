@@ -493,3 +493,11 @@ A logic-based puzzle game that challenges your brain!
 
 
 ---
+
+
+### Day 68 - Pixel Sketch Pad 🎨🧼  
+Create pixel art by hovering over the grid — paint with any color!  
+A fun and creative mini drawing board built with pure JS.
+
+
+---

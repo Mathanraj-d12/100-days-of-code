@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pixel Sketch Pad</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎨 Pixel Sketch Pad</h1>
+    <p>Hover over the grid to paint! Choose a color or reset to start over.</p>
+
+    <div class="controls">
+      <label for="colorPicker">Choose Color: </label>
+      <input type="color" id="colorPicker" value="#1d4ed8" />
+      <button id="resetBtn">Clear</button>
+    </div>
+
+    <div id="grid" class="grid"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
