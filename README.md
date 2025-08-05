@@ -500,4 +500,12 @@ Create pixel art by hovering over the grid — paint with any color!
 A fun and creative mini drawing board built with pure JS.
 
 
+--- 
+
+
+### Day 69 - Memory Matrix Challenge 🧠🟩  
+Memorize the flashing pattern of green squares, then recreate it!  
+A visual memory game to test your focus and short-term recall.
+
+
 ---
