@@ -516,3 +516,10 @@ A fun way to test and improve your reflexes!
 
 
 ---
+
+### Day 71 - Quick Tap Reflex Game 🎯⚡  
+Tap the green circle as fast as you can before it disappears.  
+A fun and addictive way to train your lightning reflexes!
+
+
+---

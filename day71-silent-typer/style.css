@@ -1,0 +1,42 @@
+body {
+  font-family: 'Courier New', monospace;
+  background: #111;
+  color: #fff;
+  text-align: center;
+  padding: 40px;
+}
+
+#eye {
+  font-size: 80px;
+  margin: 20px 0;
+  transition: transform 0.2s;
+}
+
+#eye.open {
+  transform: scale(1.2);
+  color: red;
+}
+
+#eye.closed {
+  color: #0f0;
+  transform: scale(0.9);
+}
+
+#sentence {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+#inputBox {
+  padding: 10px;
+  font-size: 18px;
+  width: 60%;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+#status {
+  margin-top: 20px;
+  font-size: 24px;
+}
