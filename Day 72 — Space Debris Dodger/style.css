@@ -1,0 +1,118 @@
+:root{
+  --bg:#071229;
+  --card:#0b1220;
+  --accent:#22c55e;
+  --muted:#94a3b8;
+  --ui:#0f1724;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(180deg, #061028 0%, #081424 100%);
+  color:#e6eef8;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:18px;
+  padding:18px;
+}
+
+/* UI header and controls */
+.ui{
+  width:100%;
+  max-width:1000px;
+  text-align:center;
+}
+
+h1{font-size:20px;margin-bottom:8px;color:#dbeafe}
+
+.top-row{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+  margin-bottom:8px;
+}
+
+.stats{
+  display:flex;
+  gap:14px;
+  font-size:14px;
+  color:var(--muted);
+}
+.stats div{background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:8px}
+
+/* buttons */
+.buttons button{
+  background:linear-gradient(180deg,#2563eb,#1e40af);
+  color:white;
+  border:none;
+  padding:8px 12px;
+  border-radius:8px;
+  margin-left:8px;
+  cursor:pointer;
+  font-weight:600;
+}
+.buttons button:disabled{opacity:.5;cursor:not-allowed}
+
+.instructions{
+  font-size:13px;
+  color:var(--muted);
+  max-width:1000px;
+  margin:8px auto 0;
+}
+
+/* Canvas area */
+.game-wrap{
+  position:relative;
+  width:100%;
+  max-width:980px;
+  height:640px;
+  border-radius:12px;
+  overflow:hidden;
+  box-shadow: 0 8px 30px rgba(2,6,23,0.6);
+  background: radial-gradient(1200px 600px at 10% 10%, rgba(34,197,94,0.03), transparent 5%),
+              linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.05));
+}
+
+/* responsive canvas - it will resize to container */
+#gameCanvas{
+  width:100%;
+  height:100%;
+  display:block;
+  background:transparent;
+}
+
+/* Mobile touch pads */
+.touch-controls{
+  position:absolute;
+  bottom:14px;
+  left:50%;
+  transform:translateX(-50%);
+  width:80%;
+  display:flex;
+  justify-content:space-between;
+  pointer-events:none; /* enable only pads */
+}
+.pad{
+  width:140px;
+  height:60px;
+  border-radius:12px;
+  background:rgba(255,255,255,0.04);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:28px;
+  color:#cfe8ff;
+  pointer-events:auto;
+  user-select:none;
+  touch-action: none;
+  -webkit-user-select:none;
+}
+@media (max-width:600px){
+  .game-wrap{height:520px}
+  .pad{width:40vw;height:12vw}
+  .top-row{flex-direction:column;align-items:center;gap:8px}
+}

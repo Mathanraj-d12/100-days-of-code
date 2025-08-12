@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Space Debris Dodger</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="ui">
+    <h1>🚀 Space Debris Dodger</h1>
+
+    <div class="top-row">
+      <div class="stats">
+        <div>Score: <span id="score">0</span></div>
+        <div>Best: <span id="best">0</span></div>
+        <div>Level: <span id="level">1</span></div>
+      </div>
+
+      <div class="buttons">
+        <button id="startBtn">Start</button>
+        <button id="pauseBtn" disabled>Pause</button>
+        <button id="restartBtn" disabled>Restart</button>
+      </div>
+    </div>
+
+    <p class="instructions">
+      Controls: Arrow keys / A & D to move. On mobile, use the left/right touch pads.
+      Survive as long as you can — asteroids speed up over time!
+    </p>
+  </div>
+
+  <div class="game-wrap">
+    <canvas id="gameCanvas"></canvas>
+
+    <!-- Mobile touch controls -->
+    <div class="touch-controls" id="touchControls">
+      <div id="leftPad" class="pad">◀</div>
+      <div id="rightPad" class="pad">▶</div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

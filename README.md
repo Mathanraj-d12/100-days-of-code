@@ -523,3 +523,11 @@ A fun and addictive way to train your lightning reflexes!
 
 
 ---
+
+
+### Day 72 - Space Debris Dodger 🚀🪐  
+Dodge incoming asteroids using arrow keys or mobile pads. Score by surviving and dodging debris.  
+Built with HTML5 Canvas, responsive controls, and progressive difficulty.
+
+
+---
