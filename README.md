@@ -531,3 +531,9 @@ Built with HTML5 Canvas, responsive controls, and progressive difficulty.
 
 
 ---
+
+### Day 73 - Falling Stars Catcher ✨🌌  
+Catch the falling stars using arrow keys. Each caught star gives you 1 point.  
+Built with HTML5 Canvas, simple controls, and infinite gameplay loop.
+
+---
