@@ -537,3 +537,10 @@ Catch the falling stars using arrow keys. Each caught star gives you 1 point.
 Built with HTML5 Canvas, simple controls, and infinite gameplay loop.
 
 ---
+
+# Day 74: 🎯 Quick Math Quiz Game
+
+A simple and fun math quiz game where players answer randomly generated addition, subtraction, multiplication, or division problems.  
+Tracks your score and gives instant feedback.
+
+---
