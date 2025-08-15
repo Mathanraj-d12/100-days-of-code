@@ -544,3 +544,10 @@ A simple and fun math quiz game where players answer randomly generated addition
 Tracks your score and gives instant feedback.
 
 ---
+
+### Day 75 – Random Movie Quote Generator 🎬📜  
+Click a button to display a random iconic movie quote along with the movie name.  
+Built using simple HTML, CSS, and JavaScript.
+
+
+---
