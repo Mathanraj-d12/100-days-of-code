@@ -1,0 +1,32 @@
+body {
+  background: #222;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+#weatherIcon {
+  font-size: 5rem;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 25px;
+  font-size: 16px;
+  background: #ffa41b;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+button:hover {
+  opacity: .9;
+}

@@ -551,3 +551,9 @@ Built using simple HTML, CSS, and JavaScript.
 
 
 ---
+
+### Day 76 – Weather Mood App ☁️😄  
+Click a button to get a random weather icon with a matching positive mood quote.  
+Built with pure HTML, CSS & JavaScript – fun tiny app to lift your spirits!
+
+---
