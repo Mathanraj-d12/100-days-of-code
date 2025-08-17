@@ -557,3 +557,10 @@ Click a button to get a random weather icon with a matching positive mood quote.
 Built with pure HTML, CSS & JavaScript – fun tiny app to lift your spirits!
 
 ---
+
+### Day 77 – Quote Tweet Generator 🐦📝  
+Enter your name and generate a motivational quote styled like a tweet.  
+Built using basic HTML, CSS & JavaScript for fun and inspiration.
+
+
+---
