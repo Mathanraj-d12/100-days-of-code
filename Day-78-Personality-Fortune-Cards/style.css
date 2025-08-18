@@ -1,0 +1,30 @@
+body {
+  background: #181818;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  text-align: center;
+}
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  background: #282828;
+  border-radius: 10px;
+  box-shadow: 0 0 15px #ff00ff88;
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  padding: 10px 25px;
+  cursor: pointer;
+  background: #e91e63;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+}

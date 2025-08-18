@@ -564,3 +564,10 @@ Built using basic HTML, CSS & JavaScript for fun and inspiration.
 
 
 ---
+
+### Day 78 – Personality Fortune Cards 🔮✨  
+A funny random generator that creates a personality fortune card with a special power & weakness.  
+Built with HTML, CSS & JavaScript.
+
+
+---
