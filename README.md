@@ -571,3 +571,10 @@ Built with HTML, CSS & JavaScript.
 
 
 ---
+
+### Day 79 – Emoji Sentence Maker 😜📜  
+Generates random sentences made entirely from emojis for fun and creativity.  
+Built with HTML, CSS & JavaScript.
+
+
+---

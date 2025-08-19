@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #222;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  text-align: center;
+}
+button {
+  padding: 8px 20px;
+  cursor: pointer;
+  border: none;
+  background: #ff4081;
+  color: white;
+  font-size: 18px;
+  border-radius: 5px;
+}
+.output {
+  font-size: 2rem;
+  margin-top: 20px;
+  word-break: break-word;
+}
