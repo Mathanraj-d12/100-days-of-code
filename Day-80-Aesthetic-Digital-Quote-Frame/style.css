@@ -1,0 +1,30 @@
+body {
+  background: #f6f6f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Georgia', serif;
+}
+
+.frame {
+  width: 400px;
+  padding: 40px;
+  text-align: center;
+  background: white;
+  border: 2px solid #222;
+  box-shadow: 0px 15px 20px rgba(0,0,0,0.2);
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.frame:hover {
+  transform: translateY(-5px);
+}
+
+#quoteText {
+  font-size: 1.4rem;
+  margin-bottom: 15px;
+  line-height: 1.5rem;
+}

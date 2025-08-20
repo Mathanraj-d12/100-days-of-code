@@ -578,3 +578,9 @@ Built with HTML, CSS & JavaScript.
 
 
 ---
+
+### Day 80 – Aesthetic Digital Quote Frame 🖼️✨  
+A beautiful quote card that changes motivational/design quotes whenever you click on it.  
+Inspired by minimal poster art — built using HTML, CSS & JavaScript.
+
+---
