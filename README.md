@@ -584,3 +584,10 @@ A beautiful quote card that changes motivational/design quotes whenever you clic
 Inspired by minimal poster art — built using HTML, CSS & JavaScript.
 
 ---
+
+# Day 81 – Habit Tracker  
+A simple habit tracker to add, tick ✅, and delete daily habits.  
+Built with HTML, CSS, and JavaScript (with checkbox to mark habits done).  
+
+
+---
