@@ -591,3 +591,11 @@ Built with HTML, CSS, and JavaScript (with checkbox to mark habits done).
 
 
 ---
+
+# 🎮 Day 82 - Emoji Memory Game  
+A fun memory game where the computer shows an emoji sequence and the player must click emojis in the same order.  
+
+👉 Test your memory & play again if you fail!  
+
+
+---
