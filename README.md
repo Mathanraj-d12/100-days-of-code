@@ -599,3 +599,9 @@ A fun memory game where the computer shows an emoji sequence and the player must
 
 
 ---
+
+# Day 83 - Word Scramble Game
+A fun brain game where you guess the original word from a scrambled version.
+Built using HTML, CSS, and JavaScript.
+
+---
