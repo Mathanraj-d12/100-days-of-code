@@ -605,3 +605,9 @@ A fun brain game where you guess the original word from a scrambled version.
 Built using HTML, CSS, and JavaScript.
 
 ---
+
+# 🎮 Shape Catcher Game
+Click the correct shape (circle, square, or triangle) to score points.  
+One wrong click and it’s game over!
+
+---

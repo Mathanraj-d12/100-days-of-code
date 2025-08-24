@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f0f8ff;
+  margin: 0;
+  padding: 20px;
+}
+
+#game {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.shape {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
+
+.circle {
+  background: red;
+  border-radius: 50%;
+}
+
+.square {
+  background: blue;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 80px solid green;
+}
+
+.Rectangle {
+  width: 120px;
+  height: 80px;
+  background: #000; /* change color as you like */
+  cursor: pointer;
+}
