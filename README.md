@@ -610,4 +610,10 @@ Built using HTML, CSS, and JavaScript.
 Click the correct shape (circle, square, or triangle) to score points.  
 One wrong click and it’s game over!
 
+--- 
+
+🎲 Dice Duel Game – A simple 2-player dice rolling game.  
+Each player rolls a dice, and the higher number wins.  
+Includes a live scoreboard for multiple rounds.  
+
 ---

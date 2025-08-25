@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+}
+
+.game {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 20px 0;
+}
+
+.dice {
+  font-size: 80px;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin: 20px;
+  cursor: pointer;
+  border: none;
+  background: #333;
+  color: white;
+  border-radius: 8px;
+}
