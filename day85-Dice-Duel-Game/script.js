@@ -25,3 +25,4 @@ function rollDice() {
   document.getElementById("score1").innerText = score1;
   document.getElementById("score2").innerText = score2;
 }
+    

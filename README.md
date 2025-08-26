@@ -617,3 +617,10 @@ Each player rolls a dice, and the higher number wins.
 Includes a live scoreboard for multiple rounds.  
 
 ---
+
+# Day 86 - Markdown Previewer 📝
+A live Markdown previewer built with HTML, CSS, and JavaScript.
+Type Markdown in the left panel and see instant preview on the right.
+
+
+---
