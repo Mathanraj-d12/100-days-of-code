@@ -624,3 +624,8 @@ Type Markdown in the left panel and see instant preview on the right.
 
 
 ---
+# Day 87 - Password Strength Checker 🔒
+A real-time password strength meter using HTML, CSS, and JavaScript.
+Checks length, numbers, uppercase, and symbols to rate security level.
+
+---
