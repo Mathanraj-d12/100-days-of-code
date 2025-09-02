@@ -629,3 +629,11 @@ A real-time password strength meter using HTML, CSS, and JavaScript.
 Checks length, numbers, uppercase, and symbols to rate security level.
 
 ---
+
+# Day 88 Soundboard 🎵
+A simple soundboard web app to play different sound effects with a single click.  
+Built using HTML, CSS, and JavaScript with the Audio API.  
+
+#Day 89  Keyboard Hero 🎵
+Press the correct key at the right time to score points! Wrong keys = funny fail sounds.
+A fun mini-game inspired by Guitar Hero but with your keyboard.
