@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #232526, #414345);
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 40px;
+  color: #ff4757;
+}
+
+#game {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.player {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 12px;
+  width: 40%;
+}
+
+input {
+  padding: 10px;
+  width: 80%;
+  font-size: 18px;
+  margin-top: 10px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+}
+
+#p1-words, #p2-words {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 15px 0;
+  color: #ffeaa7;
+}

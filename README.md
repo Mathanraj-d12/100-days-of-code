@@ -634,6 +634,14 @@ Checks length, numbers, uppercase, and symbols to rate security level.
 A simple soundboard web app to play different sound effects with a single click.  
 Built using HTML, CSS, and JavaScript with the Audio API.  
 
-#Day 89  Keyboard Hero 🎵
+# Day 89  Keyboard Hero  🎵
 Press the correct key at the right time to score points! Wrong keys = funny fail sounds.
 A fun mini-game inspired by Guitar Hero but with your keyboard.
+
+# Day 90 Angry Typers ⌨️🔥  
+Type words before they hit the edge or lose lives!  
+Fast-paced typing game made with HTML, CSS, and JavaScript.  
+
+# Day 91 Typing Duel ⚔️  
+Two players race to type words correctly — first to 10 points wins!  
+Made with HTML, CSS, and JavaScript.  
