@@ -645,3 +645,8 @@ Fast-paced typing game made with HTML, CSS, and JavaScript.
 # Day 91 Typing Duel ⚔️  
 Two players race to type words correctly — first to 10 points wins!  
 Made with HTML, CSS, and JavaScript.  
+
+
+# Day 92 Mouse Escape 🖱️💨  
+Survive by dodging red blocks with your mouse.  
+Fast reflex game made in HTML, CSS, and JS.  
