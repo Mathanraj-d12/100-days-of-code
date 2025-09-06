@@ -650,3 +650,8 @@ Made with HTML, CSS, and JavaScript.
 # Day 92 Mouse Escape 🖱️💨  
 Survive by dodging red blocks with your mouse.  
 Fast reflex game made in HTML, CSS, and JS.  
+
+# Clap & Shout Game 🎤⚡  
+Clap or shout to make the ball jump and dodge spikes!  
+A sound-reactive crazy game built with HTML, CSS, and JS.  
+
