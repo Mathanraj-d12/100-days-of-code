@@ -651,7 +651,9 @@ Made with HTML, CSS, and JavaScript.
 Survive by dodging red blocks with your mouse.  
 Fast reflex game made in HTML, CSS, and JS.  
 
-# Clap & Shout Game 🎤⚡  
+# Day 94 Clap & Shout Game 🎤⚡  
 Clap or shout to make the ball jump and dodge spikes!  
 A sound-reactive crazy game built with HTML, CSS, and JS.  
 
+# Day 94 - Pong Game 🏓
+A simple Pong game where you control the left paddle with UP/DOWN keys and play against AI.
