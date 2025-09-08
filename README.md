@@ -634,29 +634,46 @@ Checks length, numbers, uppercase, and symbols to rate security level.
 A simple soundboard web app to play different sound effects with a single click.  
 Built using HTML, CSS, and JavaScript with the Audio API.  
 
+---
+
 # Day 89  Keyboard Hero  🎵
 Press the correct key at the right time to score points! Wrong keys = funny fail sounds.
 A fun mini-game inspired by Guitar Hero but with your keyboard.
+
+---
 
 # Day 90 Angry Typers ⌨️🔥  
 Type words before they hit the edge or lose lives!  
 Fast-paced typing game made with HTML, CSS, and JavaScript.  
 
+---
+
 # Day 91 Typing Duel ⚔️  
 Two players race to type words correctly — first to 10 points wins!  
 Made with HTML, CSS, and JavaScript.  
+
+---
 
 
 # Day 92 Mouse Escape 🖱️💨  
 Survive by dodging red blocks with your mouse.  
 Fast reflex game made in HTML, CSS, and JS.  
 
+---
+
 # Day 94 Clap & Shout Game 🎤⚡  
 Clap or shout to make the ball jump and dodge spikes!  
 A sound-reactive crazy game built with HTML, CSS, and JS.  
 
+---
+
 # Day 94 - Pong Game 🏓
 A simple Pong game where you control the left paddle with UP/DOWN keys and play against AI.
 
+---
+
 # Day 95 - Flappy Block 🕹️
 A Flappy Bird–style game. Press Spacebar to make the red block jump and avoid green pipes. Score increases every time you pass a pipe.
+
+
+---
