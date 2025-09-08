@@ -657,3 +657,6 @@ A sound-reactive crazy game built with HTML, CSS, and JS.
 
 # Day 94 - Pong Game 🏓
 A simple Pong game where you control the left paddle with UP/DOWN keys and play against AI.
+
+# Day 95 - Flappy Block 🕹️
+A Flappy Bird–style game. Press Spacebar to make the red block jump and avoid green pipes. Score increases every time you pass a pipe.
