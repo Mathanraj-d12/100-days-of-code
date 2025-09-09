@@ -677,3 +677,8 @@ A Flappy Bird–style game. Press Spacebar to make the red block jump and avoid 
 
 
 ---
+
+# Day 96 - Two Player Keyboard Battle ⚔️
+A 2-player Pong-style game. Player 1 moves with W/S, Player 2 with Arrow keys. Score points when your opponent misses the ball!
+
+---
