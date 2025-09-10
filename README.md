@@ -682,3 +682,7 @@ A Flappy Bird–style game. Press Spacebar to make the red block jump and avoid 
 A 2-player Pong-style game. Player 1 moves with W/S, Player 2 with Arrow keys. Score points when your opponent misses the ball!
 
 ---
+
+# Day 97 - Snake vs Bombs 🐍💣  
+Eat apples to grow, but avoid the bombs or it’s Game Over!  
+Built with HTML, CSS, and JavaScript.  
