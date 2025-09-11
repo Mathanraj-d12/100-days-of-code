@@ -686,3 +686,11 @@ A 2-player Pong-style game. Player 1 moves with W/S, Player 2 with Arrow keys. S
 # Day 97 - Snake vs Bombs 🐍💣  
 Eat apples to grow, but avoid the bombs or it’s Game Over!  
 Built with HTML, CSS, and JavaScript.  
+
+---
+
+# 🎨 Day 98 - Color Guessing Game
+Guess the correct color based on the RGB value shown.
+Built using HTML, CSS, and JavaScript.
+
+---
