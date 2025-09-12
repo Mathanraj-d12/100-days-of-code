@@ -694,3 +694,10 @@ Guess the correct color based on the RGB value shown.
 Built using HTML, CSS, and JavaScript.
 
 ---
+
+# 🐹 Day 99 - Whack-a-Mole
+Click on the 🐹 before it goes down to score points.
+You have 15 seconds to get the highest score!
+
+
+---
