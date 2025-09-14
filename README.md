@@ -701,3 +701,10 @@ You have 15 seconds to get the highest score!
 
 
 ---
+
+# 🎮 Day 100 - Mini Arcade
+Play Snake 🐍, Pong 🏓, and Whack-a-Mole 🐹 in one project!
+Built with HTML, CSS, and JavaScript.
+
+
+---
